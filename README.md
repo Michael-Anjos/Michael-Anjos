@@ -5,6 +5,8 @@
 
 ![Michael Anjos GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Anjos&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Anjos)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso para meu aprendizado, como na carreira.
 
 <div style="display: inline_block"><br/>
